@@ -1,1 +1,1 @@
-![Tim's Headshot](/assets/images/tim_headshot.png)
+![Tim Jaeryang Baek's Headshot](/assets/images/tim_headshot.png)
